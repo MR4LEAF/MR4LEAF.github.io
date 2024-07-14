@@ -15,18 +15,16 @@ Research direction
 ======
 Optical metrology, in-line metrology, confocal microscopy, structured-illumination microscopy, interferometric microscope, interferometric and scattering measurement, model-based metrology.
 
-Getting started
+Projects 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. chromatic structured-illumination microscopy, NSCF, 2022-2024, PI  
+2. on-machine interferometric measurement, NSCF, 2024-2028, PI
+3. optical metrology of euv mirrors,  CAS, 2023-2027, co-PI
 
-Site-wide configuration
+co-Superivised undergraduate
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Lixuan Xu, who focused on using white light-interferometeric technique to measure full-field thin film thickness of micro-chips. 
+Yang Luo, who focused on designing ultra-small optical interferometric measurement system. 
 
 Create content & metadata
 ------
