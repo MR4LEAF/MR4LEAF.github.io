@@ -21,7 +21,7 @@ Projects
 2. on-machine interferometric measurement, NSFC, 2024-2028, PI
 3. optical metrology of euv mirrors,  CAS, 2023-2027, co-PI
 
-co-Superivised undergraduate
+co-Superivised graduates
 ------
 Lixuan Xu, who focused on using white light-interferometeric technique to measure full-field thin film thickness of micro-chips. 
 
