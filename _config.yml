@@ -8,11 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Cheng Chen / SIOM Associate Professor"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Cheng Chen"
+description              : &description "Chen Cheng, born in 1991, holds a PhD and serves as an Associate Researcher at the Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences. He obtained his PhD in Instrument Science and Technology from Huazhong University of Science and Technology. His doctoral dissertation was nominated for the Outstanding Doctoral Dissertation Award by the China Instrument and Control Society. He previously worked at Shanghai Jiao Tong University and received support from projects such as the "Super Postdoctoral Fellow" in Shanghai, the General Program of the China Postdoctoral Science Foundation, and the Special Fund for Postdoctoral Researchers in Residence.
+
+Chen has been deeply involved in high-precision measurement and instrumentation research for three-dimensional surface morphology for a long time. He has conducted in-depth research on the fundamental theories, core algorithms, and instrument design of optical measurement technologies, including optical interference and scattering measurement, confocal measurement, and dispersive confocal measurement. He has led projects such as the National Natural Science Foundation of China and key project topics of the National Natural Science Foundation of China. Chen has published 21 representative papers in international journals in the field and has over 10 domestic invention patents disclosed."
+url                      : https://mr4leaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
