@@ -17,8 +17,8 @@ Optical metrology, in-line metrology, confocal microscopy, structured-illuminati
 
 Projects 
 ======
-1. chromatic structured-illumination microscopy, NSCF, 2022-2024, PI  
-2. on-machine interferometric measurement, NSCF, 2024-2028, PI
+1. chromatic structured-illumination microscopy, NSFC, 2022-2024, PI  
+2. on-machine interferometric measurement, NSFC, 2024-2028, PI
 3. optical metrology of euv mirrors,  CAS, 2023-2027, co-PI
 
 co-Superivised undergraduate
