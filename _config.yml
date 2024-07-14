@@ -16,7 +16,7 @@ description              : &description "Chen Cheng, born in 1991, holds a PhD a
 Chen has been deeply involved in high-precision measurement and instrumentation research for three-dimensional surface morphology for a long time. He has conducted in-depth research on the fundamental theories, core algorithms, and instrument design of optical measurement technologies, including optical interference and scattering measurement, confocal measurement, and dispersive confocal measurement. He has led projects such as the National Natural Science Foundation of China and key project topics of the National Natural Science Foundation of China. Chen has published 21 representative papers in international journals in the field and has over 10 domestic invention patents disclosed."
 url                      : https://mr4leaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "MR4LEAF/MR4LEAF.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
