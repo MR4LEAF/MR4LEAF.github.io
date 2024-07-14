@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ccPicture. jpg"
+  avatar           : "ccPicture.png"
   name             : "Dr Cheng Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD, Associate Professor at SIOM CAS"
